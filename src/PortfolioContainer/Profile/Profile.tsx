@@ -1,7 +1,6 @@
 import { FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import "./Profile.css";
-import { Link } from "lucide-react";
 const Profile = () => {
   return (
     <div className="profile-container">
@@ -9,16 +8,27 @@ const Profile = () => {
         <div className="profile-details">
           <div className="colz">
             <div className="social-icons">
-              <a href="https://github.com/abdulganiyuaziz" target="_blank">
+              <a
+                href="https://github.com/abdulganiyuaziz"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FaGithub />
               </a>
+
               <a
                 href="https://www.instagram.com/abdulganiyu2026/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
               </a>
-              <a href="https://www.twitch.tv/abdulganiyu1" target="_blank">
+
+              <a
+                href="https://www.twitch.tv/abdulganiyu1"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FaTwitter />
               </a>
             </div>
@@ -67,7 +77,6 @@ const Profile = () => {
               </span>
             </span>
           </div>
-       
         </div>
         <div className="profile-picture">
           <div className="profile-picture-background"></div>

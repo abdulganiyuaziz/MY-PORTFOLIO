@@ -2,7 +2,7 @@ import "./Testimonial.css";
 
 
 import bgImg from "../../assets/HOME/sir somed.jfif";
-import Truedemo from "../../assets/HOME/True demo.jpg";
+import Truedemo from "../../assets/HOME/Lion.jpeg";
 import loadGif from "../../assets/HOME/st jhon.jfif";
 import Title from "../../components/Heading/Heading";
 
@@ -44,7 +44,7 @@ const RecommendationSection = () => {
     },
     {
       text: "I had the pleasure of working with Abdul Ganiyu on several projects, and I must say that he played a vital role in ensuring our success in each project. Abdul Ganiyu is an exceptional communicator and has a keen eye for detail.",
-      name: " tit"       ,
+      name: " Mubarik Abdul Kadiri"       ,
       title: "True Demo FC",
       image: Truedemo,
     },
