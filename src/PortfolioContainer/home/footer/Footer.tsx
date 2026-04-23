@@ -1,10 +1,10 @@
 import './Footer.css';
-import shape from '../../../assets/Home/shape-bg.png';
+import Shape from '../../../assets/HOME/shape-bg.png';
 
 const Footer = () => (
   <div className="footer-container">
     <div className="footer-parent">
-      <img src={shape} alt="shape bg not found" />
+      <img src={Shape} alt="shape bg not found" />
     </div>
   </div>
 );
