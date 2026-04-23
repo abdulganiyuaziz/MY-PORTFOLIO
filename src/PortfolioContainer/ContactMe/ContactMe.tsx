@@ -1,4 +1,4 @@
-import "./ContactMe.css";
+import "./Contactme.css";
 import { FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 import { FiSend } from "react-icons/fi";
 import { TypeAnimation } from "react-type-animation";
