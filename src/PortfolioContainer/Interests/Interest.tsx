@@ -1,11 +1,11 @@
 import "./interests.css";
 
-type Interest = {
+type InterestProps = {
   title: string;
   description: string;
 };
 
-const interests: Interest[] = [
+const interests: InterestProps[] = [
   {
     title: "Teaching",
     description:

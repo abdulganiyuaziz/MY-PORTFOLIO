@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import "./Resume.css";
 
 import Education from "../Education/Education";
@@ -6,7 +6,7 @@ import Work from "../Work/work";
 import FrontEnd from "../Frontend/frontend";
 import Backend from "../backend/backend";
 import Tools from "../Tools/Tools";
-import Interests from "../Interests/interests";
+import Interests from '../Interests/Interest'
 
 import {
   FaGraduationCap,
