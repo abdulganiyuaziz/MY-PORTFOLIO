@@ -38,7 +38,7 @@ const RecommendationSection = () => {
   const recommendations = [
     {
       text: "I am writing to highly recommend Abdul Ganiyu Abdul Aziz for any future professional opportunities. I had the pleasure of working with him as a student at Microverse for collaborative projects, during which time he consistently impressed me with his knowledge, work ethic, and positive attitude.",
-      name: "MrIddrisu Abdul-Samed",
+      name: "Mr. Iddrisu Abdul-Samed",
       title: "ST. John Ambulance",
       image: bgImg,
     },
